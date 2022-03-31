@@ -3,7 +3,7 @@
 ## INFORMACION PERSONAL 
 
 ### Edad : 18
-### DNI : 45086196
+### DNI : 45086197
 
 ## ESTUDIOS
 
