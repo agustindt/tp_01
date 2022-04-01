@@ -9,7 +9,7 @@
 
 - Secundario: Instituto Tecnico Salesiano Villada
 - Terciario : Ingenieria en Sistemas - UCC
-- Cambridge : Kendall Schoool 
+- Cambridge : asasdASD
 
 ## Experiencia
 
